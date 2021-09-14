@@ -15,4 +15,4 @@ You can see all your referred users and two uplines. One is that person who has 
 <li>User can Add more information about yourself.</li>
 </ul>
 
-<u>Note:</u> <span>This project is incomplete in it's functionality. The project was being made for a client but he didn't paid the amount. So I didn't completed it.</span>
+<u>Note:</u> <span>This project is incomplete. The frontend is not complete yet. The project was being made for a client but he didn't paid the amount. So I didn't completed it.</span>
